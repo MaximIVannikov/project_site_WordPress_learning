@@ -352,3 +352,8 @@ h2.title {
 .footer .links a{
     color: #888888;
 }
+
+.footer .contact a{
+    color: #888888;
+    text-decoration: none;
+}
